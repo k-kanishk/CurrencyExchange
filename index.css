@@ -1,0 +1,79 @@
+body {
+  
+background-image: url("./images/yellow-gold-money-coins-wallpaper-preview.jpg");
+}
+
+.complete {
+    
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin-left: 35%;
+    /* padding-top: 3%; */
+    padding-bottom: 3%;
+    margin-top: 5%;
+    background-color: rgba(229, 203, 56, 0.9);
+    font-size: 20px;
+}
+
+.from{
+    display: flex;
+    margin-left: 30%;
+    width: 100%;
+margin-top: 5%;
+}
+
+.to{
+    display: flex;
+    margin-left: 30%;
+    width: 100%;
+
+}
+
+
+.img1{
+    margin-left: 2%;
+    
+  
+height: 35px;
+
+}
+
+.img2{
+    margin-left: 2%;
+    
+   
+  height: 35px;
+
+}
+
+
+select{
+    margin-top: 2%;
+    height: 25px;
+  
+}
+
+
+.rate{
+    background-color: rgb(9, 8, 8);
+    color: rgb(71, 239, 71);
+    width: 40%;
+    margin-left: 30%;
+    font-size: 22px;
+    padding-top: 2%;
+}
+
+
+p{
+   margin-top: 2%;
+    height: 35px;
+   
+}
+
+.enter{
+   
+    margin-bottom: -4%;
+}
+
